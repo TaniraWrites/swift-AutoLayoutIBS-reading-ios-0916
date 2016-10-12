@@ -22,24 +22,24 @@
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="4li-Bz-T2k">
                                 <color key="backgroundColor" red="0.085007378800000005" green="0.1049599378" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="100" id="7W9-PD-94a"/>
-                                    <constraint firstAttribute="width" constant="100" id="aSe-U1-4Wg"/>
+                                    <constraint firstAttribute="height" constant="100" id="1EB-BK-LGw"/>
+                                    <constraint firstAttribute="width" constant="100" id="qcZ-11-RAs"/>
                                 </constraints>
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="RDG-W6-7es">
                                 <color key="backgroundColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="40" id="93b-wJ-igz"/>
-                                    <constraint firstAttribute="height" constant="40" id="LTB-Bu-ciA"/>
+                                    <constraint firstAttribute="width" constant="40" id="UXG-z9-Zd0"/>
+                                    <constraint firstAttribute="height" constant="40" id="uEo-h2-FTc"/>
                                 </constraints>
                             </view>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="4li-Bz-T2k" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="QW8-GN-FIZ"/>
-                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="RDG-W6-7es" secondAttribute="bottom" constant="20" id="bbA-ZY-Jwk"/>
-                            <constraint firstItem="RDG-W6-7es" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="rVI-eW-aSf"/>
-                            <constraint firstItem="4li-Bz-T2k" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="8" id="smY-y6-lKm"/>
+                            <constraint firstItem="RDG-W6-7es" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="1Hm-nc-MQP"/>
+                            <constraint firstItem="4li-Bz-T2k" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="3Bb-H1-WTZ"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="RDG-W6-7es" secondAttribute="bottom" constant="20" id="V8d-Vz-inE"/>
+                            <constraint firstItem="4li-Bz-T2k" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="8" id="xkM-iw-5n9"/>
                         </constraints>
                     </view>
                 </viewController>
